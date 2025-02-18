@@ -1,5 +1,3 @@
-# greenwood-library-website
-
 # Collaborative Development Project on GitHub
 
 ## Introduction
